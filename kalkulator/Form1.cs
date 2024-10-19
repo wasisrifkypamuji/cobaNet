@@ -14,7 +14,7 @@ namespace kalkulator
 
         private void TAMBAH_Click(object sender, EventArgs e)
         {
-            double a = 1, b = 6, c;
+            double a = 1111, b = 61111, c;
 
             a = Convert.ToDouble(A.Text);
             b = Convert.ToDouble(B.Text);
