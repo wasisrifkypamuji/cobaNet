@@ -69,6 +69,7 @@ namespace kalkulator
             A.Clear();
             B.Clear();
             C.Clear();
+            //anjayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
         }
     }
 }
